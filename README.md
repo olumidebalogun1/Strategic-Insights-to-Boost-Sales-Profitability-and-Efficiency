@@ -246,6 +246,8 @@ The company should plan for higher demand during peak months (e.g., September, N
 
 ![9  Top 10 Customers Who Make Up 80% of Total Sales](https://github.com/user-attachments/assets/5db34ae9-19b7-4d14-8a2e-d4e67e92c053)
 
+**Note: The chart above displays only the top 10 customers among the 392 customers driving 80% of total sales**.
+
 ### **Insights**:
 -	Out of 793 total customers, **392 customers contribute to 80%** of the total sales, meaning approximately **49.4%** of the customers account for 80% of the sales.
 **The top 10 customers within this group of 392 driving 80% of the total sales are: Sean Miller, Tamara Chand, Greg Tran, and others**.
@@ -258,7 +260,9 @@ The company should plan for higher demand during peak months (e.g., September, N
   🔍 To view the R codes for this task/question, click here: [Project_Top Products Driving 80% of Total Sales_code](https://github.com/olumidebalogun1/Strategic-Insights-to-Boost-Sales-Profitability-and-Efficiency/blob/main/2.%20Project_%20Codes/3.%20Project_Analysis%20Codes/10.%20Identifying%20Top%20Products%20Driving%2080%25%20of%20Total%20Sales.R)
 
 ![10  Top 10 Products Who Make Up 80% of Total Sales](https://github.com/user-attachments/assets/df5f7651-effc-46ff-95ca-218b21ac7b23)
-  
+
+**Note: The chart above displays only the top 10 products among the 422 products driving 80% of total sales**
+
 ### **Insights**:
 -	Out of 1,894 products, **422 products contribute to 80%** of the total sales, meaning approximately **22.3%** of the products account for 80% of the sales.
 
@@ -297,6 +301,7 @@ Three distinct customer clusters are identified:
 🔍 To view the R codes for this task/question, click here: [Project_Market Basket Analysis_code](https://github.com/olumidebalogun1/Strategic-Insights-to-Boost-Sales-Profitability-and-Efficiency/blob/main/2.%20Project_%20Codes/3.%20Project_Analysis%20Codes/12.%20Market%20Basket%20Analysis.R)
 
 ![12  Market Basket Analysis - Uncovering (Top 20) Customer Purchase Patterns](https://github.com/user-attachments/assets/576aa0cd-f6d1-46b0-ac5d-55878835be58)
+**Note: The print out above displays only the top 20 Customer Purchase Patterns for Strategic Sales Optimization**
 
 ### **Insights**:
 **Strong Associations**:
