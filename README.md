@@ -474,11 +474,117 @@ These patterns highlight complementary relationships between these items.
 Several product pairs exhibit bidirectional dependencies, where purchasing one item guarantees the purchase of the other **(e.g., Samsung Galaxy Note 2 and Aastra VoIP Phone)**. Such relationships can be effectively utilized for reciprocal product recommendations.
 
 
-## **The Final Recommendations**
-The final recommendations outline a clear strategy for sustainable growth and profitability. The company is projected to achieve a **15-20% revenue increase, over 10% profit margin growth, and a 12-15% rise in sales volume by 2026**. **By focusing on product optimization, regional strategies, and operational efficiency**, the company will strengthen its market position and long-term success.
-With data-driven decision-making, enhanced customer engagement, and streamlined operations, the company is well-positioned to adapt to market changes, boost profitability, and expand its market share
+## **Actionable Insights, Key Expected Results and Estimated Business Impact**
+### **1.	Yearly Breakdown of Sales, Quantities, Profits, and Percentage Growth**
 
-🔍 **For a detailed and comprehensive look at the final recommendations, check them out here**: [Final Report]( https://github.com/olumidebalogun1/Strategic-Insights-to-Boost-Sales-Profitability-and-Efficiency/tree/main/4.%20Final%20Report)
+**Action Plan**: Investigate the drivers behind the exceptional growth in 2023 to replicate success. Address challenges from 2021 (e.g., supply chain or competition) by optimizing operations and revising strategies to sustain profitability and sales growth.
+
+**Expected Impact**: 
+-	**Revenue Growth**: 10-15% annual improvement by replicating successful strategies from 2023.                   
+-	**Profitability**: 8-10% increase in profit margins by addressing operational inefficiencies.                     
+- **Operational Stabilit**y: 15% reduction in disruptions from supply chain or competitive challenges
+
+### **2.  Sales and Profit by Segment for Each Region**
+
+**Action Plan**: Leverage insights into high-performing regions and segments:
+-	**West & Consumer Segment**: Enhance marketing strategies and allocate resources to sustain leadership.
+-	**South Region & Home Office Segmen**t: Reevaluate strategies to uplift sales and profit in these areas. Consider targeted promotions and improved service offerings.
+
+**Expected Impact**: 
+-	 **Regional Sales Growth**: **12-18% increase** in South region sales through targeted interventions
+-	**Profitability**: **10% rise** in overall regional profit margins.
+-	**Segment Leadership**: **15% growth** in Consumer segment sales across all regions
+
+### **3.  Sales and Profit by Category for Each Region**
+
+**Action Plan**: Focus on investments in:
+-	Technology Category for maximizing sales and profitability.
+-	Address performance gaps in Office Supplies by reviewing pricing and inventory management.
+
+**Expected Impact**: 
+-	**Category Revenue Growth**: **20% increase** in Technology category sales through focused strategies.
+-	**Profitability**: **12-15% boost** in margins for Office Supplies by optimizing pricing and reducing costs.
+-	**Market Share**: **5% gain** in target regions
+ 
+### **4.  Sales and Profit by Sub-Category**
+
+**Action Plan**: Prioritize high-performing sub-categories like Phones, Chairs, and Copiers. Optimize pricing and inventory for underperforming sub-categories such as Art, Labels, and Tables to boost their contribution.
+
+**Expected Impact**: 
+-	**Sub-Category Growth**: **25% revenue boost** 
+-	**Profitability**: **10% rise** in profit margins.
+-	**Inventory Optimization**: **15% reduction** in costs from better stock management of slow-moving items.
+
+### **5.  Total Monthly Sales**: Cyclical Patterns and Trends
+    
+**Action Plan**: Prepare for peak months (e.g., September, November) by adjusting inventory and staffing. Develop strategies to address low-performing months (January, February) with targeted campaigns and promotions.
+
+**Expected Impact**: 
+-	**Revenue Growth**: **18-22% sales increase** during peak months and 10% increase during off - peak months. 
+-	**Operational Efficienc**y: **15% improvement** in inventory turnover during peak and off-peak months.
+ 
+### **6.  Correlation between Sales, Profit, Quantity, and Discount**
+
+**Action Plan**: Boost profitability by increasing sales, optimizing discount strategies for long-term gains, and adopting volume-based approaches to enhance margins and reduce costs
+
+**Expected Impact**: 
+-	**Revenue Growth**: **12-15% increase** by optimizing discount structures to boost sales. 
+-	**Profitability**: **10% margin improvemen**t through controlled discount strategies.
+-	**Sales Volume**: **8% increase** in quantity sold through strategic sales campaigns.
+
+### **7.  Key Drivers of Sales and Profitability**
+
+**Action Plan**: Focus on profit, quantity, and key sub-categories like copiers and machines by optimizing discount strategies, maintaining margins, and enhancing operational efficiencies to manage high-volume costs.
+
+**Expected Impact**: 
+-	**Sales Growth**: **20% improvement** by focusing on high-performing sub-categories (e.g., Copiers, Machines).
+-	**Profitability**: **10% margin increase** through refined discounting strategies.
+-	**Operational Cost Efficiency**: **15% cost reduction** through optimized high-volume sales processes.
+
+### **8.  Sales Projection for the Next 36 Month**
+
+**Action Plan**: Prepare for consistent sales growth by scaling inventory and marketing during peak months and allocating resources to sustain forecasted upward trends.
+
+**Expected Impact**: 
+-	**Revenue Growth**: **20-25% **year-over-year increase through 2026.
+-	**Profitability**: **10% rise** in profit margins due to better seasonal planning.
+-	**Market Shar**e: **8% increase** driven by alignment with projected demand trends.
+
+### **9.  Top Customers Driving 80% of Sales**
+
+**Action Plan**: Enhance customer engagement by creating loyalty programs and personalized marketing for top customers while designing campaigns to increase contributions from lower-tier customers.
+
+**Expected Impact**: 
+-	**Customer Retention**: **25% increase** in repeat business from the top 392 customers.
+-	**Revenue Growth**: **10% uplift** from targeted campaigns for non-core customers.
+-	**Customer Loyalty**: **20% improvement** through personalized engagement strategies.
+
+### **10.  Top Products Driving 80% of Sales**
+
+**Action Plan**: Focus on high-value products with targeted marketing and inventory planning while improving low-performing products' contributions through bundling, discounts, or promotions.
+
+**Expected Impact**: 
+-	**Revenue Growth**: **15% increase** from prioritized high-value products.
+-	**Profitability**: **12% margin improvemen**t through optimized product mix.
+-	**Market Share**: **5% rise** in targeted categories driven by high-performing products. 
+
+### **11.   Customer Segments Based on Clustering**
+
+**Action Plan**: Retain high-value customers with exclusive offers, encourage increased spending from moderate-tier customers, and attract low-spending customers with affordable products or promotions to boost loyalty and frequency.
+
+**Expected Impact**: 
+-	**Customer Retention**: **30% improvement** among high-loyalty customers (Cluster 3).
+-	**Sales Volume**: **20% increase** from moderate-tier customers (Cluster 2).
+-	**Revenue Growth**: **15% uplift** from strategies targeting occasional buyers (Cluster 1).
+
+### **12.   Market Basket Analysis: Customer Purchase Patterns**
+
+**Action Plan**: Focus Leverage product pairings for cross-selling and upselling by creating bundled offers for frequently purchased items.
+
+**Expected Impact**: 
+-	**Revenue Growth**: **12-18% increase** through cross-selling and bundling strategies.
+-	**Customer Satisfaction**: **20% improvement** from personalized product recommendations.
+-	**Profitability**: **10% margin boost** by leveraging complementary product pairings.
 
 
 ## **What I Learned**
