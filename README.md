@@ -11,7 +11,7 @@ By leveraging cutting-edge analytical techniques, this project uncovers hidden p
 🔍 R codes for this project? Check them out here: [Project_codes](https://github.com/olumidebalogun1/Strategic-Insights-to-Boost-Sales-Profitability-and-Efficiency/blob/main/2.%20Project_%20Codes/1.%20Project_Complete%20Code/Strategic%20Insights%20to%20Boost%20Sales%2C%20Profitability%2C%20and%20Efficiency.R)
 
 
-## **The Business Challenge – Why This Project Matters.**: 
+## **The Business Challenge – Why This Project Matters**: 
 The company behind this analysis is experiencing significant **growth**—sales, profits, and order volumes are all on the rise, signalling a robust and expanding business. However, beneath this impressive upward trajectory lies a **fragmented performance landscape** that presents both **hidden risks** and **untapped opportunities**. Leadership has observed significant **inconsistencies and inefficiencies** across multiple dimensions. Key metrics such as **profit margins, sales volumes**, and **customer retention rates** vary widely by **year, region, product category**, and **customer segment**. This variability indicates that while overall revenue is increasing, the growth is not **uniform** or **sustainable** across all areas of the business.
 
 These discrepancies suggest that some segments are **outperforming** while others are **underperforming**, leading to a **misalignment in resource allocation** and **strategic focus. In essence, the company's success is diluted by internal inefficiencies—ranging from **pricing** and **operational challenges** to **inconsistent customer engagement**—which, if left unaddressed, could hinder long-term **stability** and **profitability**.
